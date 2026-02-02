@@ -277,4 +277,4 @@ function playClick() {
 }
 
 const click_sound = new Audio();
-click_sound.src = "../assets/misc/click_sample_9.mp3";
+click_sound.src = "./assets/misc/click_sample_9.mp3";
